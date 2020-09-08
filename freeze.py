@@ -1,8 +1,7 @@
-from click.decorators import password_option
 from flask_frozen import Freezer
 from PasswordReminder import app
 
-freezer = Freezer(PasswordReminder)
+freezer = Freezer(app)
 
 if __name__ == '__main__':
     freezer.freeze()
