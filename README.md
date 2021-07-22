@@ -12,5 +12,7 @@ Once deployed, you will be able to register as a user and add all the websites t
 
 WHAT HAPPENS WHEN YOU UPDATE SOMETHING IN GITHUB DIRECTLY
 
-Me is best.
+Me is smart.
 best of best.
+
+bla bla bla
